@@ -59,3 +59,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Up Git Hub
+
+1. buat repo github
+2. Inisialisasi Git di Folder Proyek : git init
+3. Tambahkan File ke Git : git add .
+4. Commit Perubahan : git commit -m "Upload proyek Laravel dosen"
+5. Hubungkan ke GitHub : git remote add origin https://github.com/dwi/laravel-dosen.git
+6. Push ke GitHub : git branch -M main
+git push -u origin main
+
