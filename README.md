@@ -71,3 +71,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 6. Push ke GitHub : git branch -M main
 git push -u origin main
 
+## 
+Library pdf : composer require barryvdh/laravel-dompdf
