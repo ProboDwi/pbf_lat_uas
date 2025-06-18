@@ -71,5 +71,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 6. Push ke GitHub : git branch -M main
 git push -u origin main
 
-## 
+## Library PDF
 Library pdf : composer require barryvdh/laravel-dompdf
+
+
+## Library Login Breeze
+composer require laravel/breeze --dev
+php artisan breeze:install
